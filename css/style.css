@@ -290,7 +290,7 @@ img{
     display: none;
 }
 
-#new_info{
+#new_info, #new_info2{
     margin-top: 10px;
     margin-bottom: 20px;
     font-weight: 700;
