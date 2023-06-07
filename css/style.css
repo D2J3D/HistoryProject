@@ -3,7 +3,6 @@
     font-family: 'Roboto Slab';
     text-decoration: none;
     padding: 0;
-   
     
 }
 body{
@@ -284,6 +283,7 @@ img{
     #working_mode{
         display:none;
     }
+    
  }
 
 .hints, .new_hints{
