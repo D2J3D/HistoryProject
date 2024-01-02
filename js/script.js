@@ -1,4 +1,3 @@
-
 let i = 0;
 document.getElementById('working_mode').addEventListener('click', function (e){
     if(i % 2 === 0){
